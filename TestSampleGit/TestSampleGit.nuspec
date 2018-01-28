@@ -1,0 +1,21 @@
+<package>
+  <metadata>
+    <id>TestSampleGit</id>
+    <version>1.0.0.0</version>
+    <authors>NRaj.Techmantra</authors>
+    <owners>NRaj.Techmantra</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The TestSampleGit deployment package, built on 1/18/2018</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+   
+
+	<file src="about.aspx" target="" />
+    
+   
+	</files>
+</package>
